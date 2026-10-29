@@ -1,0 +1,1 @@
+Clinical Boss Battles: 3 original interactive branching-style linear clinical scenarios, 4 decisions each, score/health, feedback and local high scores. Educational prototype, not FACEM peer-reviewed. Existing 860 MCQs and reviewer login remain unchanged. Open boss-battles.html or use the home screen card. No backend required for boss battles.
