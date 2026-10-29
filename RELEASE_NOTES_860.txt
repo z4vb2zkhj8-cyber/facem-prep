@@ -1,0 +1,5 @@
+FACEM Prep 860 MCQ release
+Existing 484 questions retained. Added all 376 historical FEX mock questions as a separate selectable bank and included them in Daily 10 and Resus Rush.
+WARNING: Historical answer keys are unverified; 178 flagged for priority clinical review and 198 awaiting FACEM verification. Explanations are provisional editorial guidance and may be incorrect or outdated. Do not rely on these as clinical guidance.
+Source unknown author/year, cites old Tintinalli/Cameron/Dunn editions. No independent clinical validation completed.
+Upload all extracted files to GitHub repository ROOT on main. GitHub-connected Vercel should deploy automatically. This ZIP is not itself a live deployment.

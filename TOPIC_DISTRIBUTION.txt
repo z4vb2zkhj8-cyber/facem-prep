@@ -1,0 +1,29 @@
+FACEM Prep consolidated topic distribution (860 MCQs)
+Cardiology: 65
+Dermatology: 4
+ENT: 28
+Endocrinology: 21
+Environmental: 15
+Ethics & Administration: 2
+Gastroenterology: 26
+Haematology: 17
+Immunology & Allergy: 15
+Infectious Diseases: 30
+Neurology: 87
+Obstetrics & Gynaecology: 66
+Ophthalmology: 31
+Orthopaedics: 60
+Other Clinical Medicine: 1
+Paediatrics: 54
+Prehospital & Retrieval: 4
+Procedures & Anaesthesia: 13
+Psychiatry: 31
+Renal & Urology: 57
+Respiratory: 42
+Resuscitation: 47
+Toxicology: 57
+Trauma: 87
+
+Original source-bank provenance and original topic retained in unified-questions.js.
+Historical FEX keys remain unverified; the original 376 questions are included as requested.
+Topic classification is editorial and may require further review.
