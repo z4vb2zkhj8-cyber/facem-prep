@@ -1,0 +1,17 @@
+FACEM PREP — QUIZ GAMES EDITION
+Includes Stuff-style colourful quiz presentation (original design, no Stuff branding),
+Resus Rush 10-question timed rounds (30 seconds/question), combo XP, badges,
+daily quiz, specialty tiles, and classic tutor/exam modes.
+
+UPLOAD:
+1. Unzip this package.
+2. In GitHub repository z4vb2zkhj8-cyber/facem-prep, select Add file > Upload files.
+3. Upload all files from the extracted folder into the REPOSITORY ROOT (not a nested folder).
+4. Commit changes on main.
+5. Wait for Vercel production deployment to show READY.
+6. Reload https://facem-prep.vercel.app in Safari. If stale, close standalone app
+   and open the website in Safari to refresh service worker.
+
+Preserves localStorage key facem-prep-v1 for existing history.
+Contains 30 released ACEM questions + 400 original educational draft questions.
+Original practice questions are not independently clinically peer-reviewed.
