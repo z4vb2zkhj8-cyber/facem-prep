@@ -1,8 +1,1 @@
-FACEM Prep: 54 MCQs awaiting FACEM approval.
-Upload all extracted files into the ROOT of your GitHub repository on main.
-Vercel should deploy automatically.
-Review page: https://facem-prep.vercel.app/review.html
-54 drafts: facem-review-54.json (NOT loaded by the public quiz).
-Existing 430 quiz questions and Resus Rush remain unchanged.
-The review page has NO sign-in or server-side permissions. Review decisions are LOCAL to the browser and can be exported as JSON. Do not treat this as a secure FACEM-only editor. Do not publish the questions into quizzes before clinical approval.
-19 held questions and 5 incomplete questions are NOT included.
+PUBLISHED UPDATE: 54 new MCQs included as separate selectable quiz bank and in Daily 10 and Resus Rush. Total 484 questions. These 54 have updated editorial guidance but NOT independent clinical peer-review verification. Upload ALL extracted files to repository root on main; commit to deploy on Vercel. Existing 430 retained. The 19 held and 5 incomplete questions remain excluded. Review page retained as an optional local review workspace.
