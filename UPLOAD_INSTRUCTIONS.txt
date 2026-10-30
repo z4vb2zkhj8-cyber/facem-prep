@@ -1,1 +1,31 @@
-PUBLISHED UPDATE: 54 new MCQs included as separate selectable quiz bank and in Daily 10 and Resus Rush. Total 484 questions. These 54 have updated editorial guidance but NOT independent clinical peer-review verification. Upload ALL extracted files to repository root on main; commit to deploy on Vercel. Existing 430 retained. The 19 held and 5 incomplete questions remain excluded. Review page retained as an optional local review workspace.
+FACEM Prep — ACEM 2025.1 OSCE 17 (ECG interpretation and teaching)
+
+Upload these five files to your GitHub repository z4vb2zkhj8-cyber/facem-prep on main:
+
+REPOSITORY ROOT:
+  osce17.html             new station page
+  osce17.js               hands-free role-play logic
+  ecg_osce17.png          ECG prop from page 8 of the supplied ACEM PDF, rotated upright
+  osce.html               adds navigation to the new station; preserves Sami's existing OSCE
+
+INSIDE api/ FOLDER:
+  osce17-doctor.js        new serverless junior-doctor AI endpoint
+
+Do NOT replace osce.js, osce-stations.js, api/transcribe.js, api/osce-voice.js, or api/osce-patient.js.
+The existing OPENAI_API_KEY is reused.
+
+Once Vercel deploys, open:
+  https://facem-prep.vercel.app/osce17.html
+
+Station includes:
+  - 4-minute reading time, 7-minute consultation
+  - Original ECG displayed with candidate instructions; can enlarge during station
+  - AI PGY1 junior doctor, scripted time-based prompts
+  - Hands-free microphone voice activity detection
+  - Existing OpenAI speech transcription and generated voice
+  - Full-station local recording and transcript download
+  - Source-aligned examiner checklist
+
+Important: the source specifies a 7-minute station and that the ECG is available during reading time; 4-minute reading time is carried over from the Sami simulator for consistency, not specified in this OSCE 17 document.
+
+This is an educational simulation. AI can deviate from the original role-player script. No automatic clinical score. The existing public OpenAI endpoints and this new endpoint need real authentication, durable rate limits, and spending limits before inviting wider users.
